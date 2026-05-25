@@ -1,0 +1,10 @@
+
+reflexion semana 3:
+
+Mantener un registro de cambios en proyectos de software es fundamental porque asegura la trazabilidad y transparencia 
+del trabajo. Con Git, cada modificación queda documentada, lo que permite identificar quién hizo un cambio y en qué 
+momento. Esto facilita la colaboración entre varios desarrolladores, evita la pérdida de información y ayuda a corregir 
+errores de manera más rápida. Además, el historial de commits se convierte en una evidencia del proceso de desarrollo, 
+lo que fortalece la confianza en el proyecto y garantiza que las versiones anteriores puedan recuperarse en caso de 
+fallos. En conclusión, Git es una herramienta clave para la organización y calidad del software.
+
