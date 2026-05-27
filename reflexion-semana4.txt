@@ -1,0 +1,6 @@
+El uso de Node.js en comunidades ciudadanas es importante porque permite crear herramientas propias sin depender de 
+empresas externas. Al ser una tecnología abierta, fomenta la colaboración y el aprendizaje colectivo. Esto fortalece
+la autonomía y la capacidad de resolver problemas locales con soluciones tecnológicas adaptadas a cada contexto. 
+Además, promueve la transparencia y el acceso libre al conocimiento, lo que genera confianza en los proyectos
+comunitarios. En conclusión, Node.js brinda a las iniciativas sociales la posibilidad de innovar y crecer de manera 
+sostenible.
