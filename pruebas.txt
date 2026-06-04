@@ -1,0 +1,3 @@
+Ruta / : El navegador muestra "Servidor activo".
+Ruta /saludo : El navegador muestra "Hola comunidad".
+Ruta /mensaje/juan : El navegador muestra "Hola juan".
